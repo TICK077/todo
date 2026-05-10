@@ -216,7 +216,7 @@ teacher@dxmbedu.com
 
 ## （4）Tunnel 网络方案
 
-由于办公室网络无公网 IP，因此采用 Tunnel 方案实现外网访问。
+由于办公室网络无公网 IP，因此采用 Cloudflare Tunnel 方案实现外网访问。
 
 ### 优点：
 
